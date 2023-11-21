@@ -1,0 +1,187 @@
+﻿<Page x:Class="Athenea.GestCompra"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Athenea"
+      mc:Ignorable="d" 
+      d:Height="500" d:Width="1000"
+      Title="Gestionar Ventas" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+            
+      TextElement.Foreground="{DynamicResource MaterialDesignBody}"        
+      TextElement.FontWeight="Bold"
+      TextElement.FontSize="16"
+      FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto">
+
+    <Grid x:Name="GestionPapeleria" Grid.Column="1" Background="WhiteSmoke" IsEnabled="True" Visibility="Visible">
+        <Grid x:Name="gContenidoPap" Background="WhiteSmoke"  IsEnabled="True" Visibility="Visible" VerticalAlignment="Stretch">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="53*"/>
+                <RowDefinition Height="68*"/>
+                <RowDefinition Height="46.402"/>
+                <RowDefinition Height="53*"/>
+                <RowDefinition Height="53*"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="53*"/>
+                <RowDefinition Height="53*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="97*"/>
+                <ColumnDefinition Width="63*"/>
+            </Grid.ColumnDefinitions>
+
+            <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5,0,0,5" Grid.Column="0" Grid.Row="2" Width="301" Height="43" Grid.RowSpan="2">
+
+                <TextBox TabIndex="0" HorizontalAlignment="Left" Width="201" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Producto a buscar" x:Name="txtBusquedaPap" VerticalAlignment="Center" />
+                <Button x:Name="btnBuscarPap" ToolTip="Buscar producto" Width="85" Height="38" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="{materialDesign:PackIcon Kind=Search, Size=25}" Padding="0" Margin="10,5,0,0" Click="btnBuscarProductos_Click" Cursor="Hand"/>
+
+            </WrapPanel>
+
+            <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5,0,0,5" Grid.Column="0" Width="301" Height="43">
+
+                <TextBox TabIndex="0" HorizontalAlignment="Left" Width="201" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Libro a buscar" x:Name="txtBusquedaLi" VerticalAlignment="Center" />
+                <Button x:Name="btnBuscarLibros" Width="85" Height="38" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="{materialDesign:PackIcon Kind=Search, Size=25}" Padding="0" Margin="10,5,0,0" Click="btnBuscarLibros_Click" Cursor="Hand"/>
+
+            </WrapPanel>
+
+            <DataGrid x:Name="dgPapeleria" IsReadOnly="true" SelectionMode="Single" Margin="0,5,0,5" AutoGenerateColumns="False" Grid.RowSpan="2" Grid.Row="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" SelectionChanged="DgPapeleria_SelectionChanged">
+                <DataGrid.Columns>
+
+                    <DataGridTemplateColumn Width="70">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Imagen}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTextColumn Header="Nombre" Binding="{Binding Path=Nombre}"/>
+                    <DataGridTextColumn Header="Categoria" Binding="{Binding Path=Categoria.Nombre}"/>
+                    <DataGridTextColumn Header="Stock" Binding="{Binding Path=Stock}"/>
+                    <DataGridTextColumn Header="Precio" Binding="{Binding Path=Precio}"/>
+                    <DataGridTextColumn Header="Marca" Binding="{Binding Path=Marca.Nombre}"/>
+                    <DataGridTextColumn Header="Color" Binding="{Binding Path=Color}"/>
+                    <DataGridTextColumn Header="Tamaño" Binding="{Binding Path=Tamaño}"/>
+                    <DataGridTextColumn Header="Prooveedor" Binding="{Binding Path=Proveedor.Nombre}"/>
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <DataGrid x:Name="dgLibros" IsReadOnly="true" SelectionMode="Single" Margin="0,5,0,5" HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" Grid.RowSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="1" SelectionChanged="DgLibros_SelectionChanged">
+                <DataGrid.Columns>
+
+                    <DataGridTemplateColumn Width="70">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Imagen}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTextColumn Header="Título" Binding="{Binding Path=Nombre}"/>
+                    <DataGridTextColumn Header="ISBN" Binding="{Binding Path=ISBN}"/>
+                    <DataGridTextColumn Header="Autor" Binding="{Binding Path=Autor}"/>
+                    <DataGridTextColumn Header="Tipo" Binding="{Binding Path=Tipo.Nombre}"/>
+                    <DataGridTextColumn Header="Editorial" Binding="{Binding Path=Editorial.Nombre}"/>
+                    <DataGridTextColumn Header="Descripción" Binding="{Binding Path=Descripcion}"/>
+                    <DataGridTextColumn Header="Stock" Binding="{Binding Path=Stock}"/>
+                    <DataGridTextColumn Header="Precio" Binding="{Binding Path=Precio}"/>
+                    <DataGridTextColumn Header="Edicion" Binding="{Binding Path=Edicion}"/>
+                    <DataGridTextColumn Header="Prooveedor" Binding="{Binding Path=Proveedor.Nombre}"/>
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5,0,0,5" Grid.Column="0" Grid.Row="6" Width="301" Height="43">
+
+                <TextBox TabIndex="0" HorizontalAlignment="Left" Width="201" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Proveedor a buscar" x:Name="txtBusquedaPro" VerticalAlignment="Center" />
+                <Button x:Name="btnBuscarProveedores" ToolTip="Buscar proveedor" Width="85" Height="38" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="{materialDesign:PackIcon Kind=Search, Size=25}" Padding="0" Margin="10,5,0,0" Click="btnBuscarProveedores_Click" Cursor="Hand"/>
+
+            </WrapPanel>
+
+            <DataGrid x:Name="dgProveedores" IsReadOnly="true" Margin="0,5,0,5" SelectionMode="Single" HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" Grid.RowSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="7" SelectionChanged="dgProoveedores_SelectionChanged">
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn Header="CIF" Binding="{Binding Path=CIF}"/>
+                    <DataGridTextColumn Header="Nombre" Binding="{Binding Path=NombreCompleto}"/>
+                    <DataGridTextColumn Header="Correo" Binding="{Binding Path=Correo}"/>
+                    <DataGridTextColumn Header="Teléfono" Binding="{Binding Path=Telefono}"/>
+                    <DataGridTextColumn Header="Direccion" Binding="{Binding Path=Direccion}"/>
+                    <DataGridTemplateColumn Width="100">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Imagen}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <GroupBox x:Name="gbFormularioProducto" Header="Datos para la compra del producto" Style="{DynamicResource MaterialDesignGroupBox}" Grid.Row="0" Grid.RowSpan="3" Grid.Column="1" Margin="5,10,5,0">
+
+                <Grid x:Name="gContenedorDireccion" Cursor="Hand">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Image x:Name="Imagen" Grid.Column="0" Grid.Row="0" Grid.RowSpan="2" materialDesign:HintAssist.Hint="Imagen" Source="{Binding Path=Imagen, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}" Cursor="Hand"/>
+
+                    <TextBox TabIndex="0" Grid.Column="1" Grid.Row="0" materialDesign:HintAssist.Hint="Nombre" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtNombre" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Nombre, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="1" Grid.Column="1" Grid.Row="1" materialDesign:HintAssist.Hint="Cantidad" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtCantidad" VerticalAlignment="Center" Margin="10,0,10,0" KeyDown="comprobarEnter"/>
+                    
+                    <TextBox TabIndex="2" Grid.Column="1" Grid.Row="2" materialDesign:HintAssist.Hint="Proveedor" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtProveedor" VerticalAlignment="Center" Margin="10,0,10,0" KeyDown="comprobarEnter"/>
+                </Grid>
+            </GroupBox>
+
+            <WrapPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,5" Height="43" Width="85">
+
+                <Button x:Name="btnMostrarCompras" Width="75" Height="38" ToolTip="Mostrar Compras" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="{materialDesign:PackIcon Kind=ListBox, Size=25}" Padding="0" Margin="10,5,0,0" Click="btnMostrarCompras_Click" Cursor="Hand"/>
+
+            </WrapPanel>
+
+            <WrapPanel  Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" Height="47">
+
+                <Button x:Name="btnAñadir" Content="{materialDesign:PackIcon Kind=CartArrowDown, Size=23}" ToolTip="añadir producto" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  FontSize="14" Width="85" Margin="5,5,0,0" Click="BtnAñadir_Click"/>
+                <Button x:Name="btnBorrar" Content="{materialDesign:PackIcon Kind=CartRemove, Size=23}" ToolTip="quitar producto" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  Margin="5,10,5,5" Width="85" FontSize="14" Click="btnBorrar_Click" Cursor="Hand"/>
+
+            </WrapPanel>
+
+            <WrapPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Column="1" Grid.Row="3" VerticalAlignment="Center" Height="37" Width="90">
+
+                <Button x:Name="btnCompra" HorizontalAlignment="Right" Content="{materialDesign:PackIcon Kind=CartArrowRight, Size=23}" ToolTip="hacer compra" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" FontSize="14" Width="85" Margin="0,5,5,0" Click="btnGenerarCompra_Click"/>
+
+            </WrapPanel>
+
+            <DataGrid x:Name="dgCompra" IsReadOnly="true" SelectionMode="Single" Margin="5,5,5,5" AutoGenerateColumns="False" Grid.RowSpan="5" Grid.Row="4" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" SelectionChanged="DgPapeleria_SelectionChanged">
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn Header="Producto" Binding="{Binding Path=Producto.Nombre}"/>
+                    <DataGridTextColumn Header="Importe" Binding="{Binding Path=Importe, StringFormat=N2}"/>
+                    <DataGridTextColumn Header="Cantidad" Binding="{Binding Path=Cantidad}"/>
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <materialDesign:Snackbar x:Name="sbNotification"
+                VerticalAlignment="Top" HorizontalContentAlignment="Center"
+                MessageQueue="{materialDesign:MessageQueue}"/>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,74 @@
+﻿<Window x:Class="Athenea.Factura"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Athenea"
+        mc:Ignorable="d"
+        FontSize="14"
+        Title="Factura" Height="1100" Width="750">
+    <Grid x:Name="compra">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="600"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="139*"/>
+            <ColumnDefinition Width="118*"/>
+            <ColumnDefinition Width="59*"/>
+            <ColumnDefinition Width="84*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image Grid.Row="0" Source="Imagenes\logo.png" Grid.Column="3" Grid.RowSpan="3" HorizontalAlignment="Right" Stretch="Uniform" Margin="0,5,5,0"/>
+        <Label x:Name="lbCalle" Content="Calle1" Grid.Row="1" HorizontalAlignment="Left" Margin="5,0" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label x:Name="lbDireccion" Content="45200 Concello, Provincia " HorizontalAlignment="Left" Margin="5,0" Grid.Row="2" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label Content="Facturar a:" HorizontalAlignment="Left" Margin="15,0" Grid.Row="4" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label x:Name="lbFProvincia" Content="Pronvincia2" HorizontalAlignment="Left" Margin="25,0" Grid.Row="5" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label x:Name="lbFCalle" Content="Calle2" HorizontalAlignment="Left" Margin="25,0" Grid.Row="6" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label x:Name="lbFDireccion" Content="25003 Concello, Provincia" HorizontalAlignment="Left" Margin="25,0" Grid.Row="7" Style="{StaticResource MaterialDesignLabel}"/>
+
+        <Label Content="Enviar a:" HorizontalAlignment="Left" Grid.Row="4" Grid.Column="1" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label x:Name="lbEProvincia" Content="Pronvincia2" HorizontalAlignment="Left" Grid.Row="5" Grid.Column="1" Margin="15,0" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label x:Name="lbECalle" Content="Calle2" HorizontalAlignment="Left" Grid.Row="6" Grid.Column="1" Margin="15,0" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label x:Name="lbEDireccion" Content="25003 Concello, Provincia" HorizontalAlignment="Left" Grid.Row="7" Grid.Column="1" Margin="15,0" Style="{StaticResource MaterialDesignLabel}"/>
+
+        <Label Content="Nº de Factura:" Grid.Row="5" Grid.Column="2" HorizontalAlignment="Right" Margin="5,0" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label Content="Fecha:" Grid.Row="6" Grid.Column="2" HorizontalAlignment="Right" Style="{StaticResource MaterialDesignLabel}"/>
+        
+        <Label x:Name="lbNumFactura" Grid.Row="5" Grid.Column="3" HorizontalAlignment="Left" Margin="5,0" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label x:Name="lbFecha" Grid.Row="6" Grid.Column="3" HorizontalAlignment="Left" Margin="5,0" Style="{StaticResource MaterialDesignLabel}"/>
+
+        <DataGrid x:Name="dgCompras" IsReadOnly="true" Grid.Row="9" Grid.ColumnSpan="4" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="Producto" Binding="{Binding Path=Producto.Nombre}"/>
+                <DataGridTextColumn Header="Cantidad" Binding="{Binding Path=Cantidad}"/>
+                <DataGridTextColumn Header="Importe" Binding="{Binding Path=Importe, StringFormat=N3}"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Label Content="Subtotal:" Grid.Row="10" Grid.Column="1" HorizontalAlignment="Right" Margin="5,0" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label Content="TOTAL:" Grid.Row="11" Foreground="#b91523" Grid.Column="1" HorizontalAlignment="Right" Margin="5,0" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label x:Name="lbTotalSinIva" Grid.Row="12" Grid.Column="2" HorizontalAlignment="Left" Margin="5,0" Style="{StaticResource MaterialDesignLabel}" Width="8"/>
+        <Label x:Name="lbTotalIva" Grid.Row="13" Grid.Column="2" HorizontalAlignment="Left" Margin="5,0" Style="{StaticResource MaterialDesignLabel}" Width="8"/>
+
+        <Label Content="Condiciones y forma de pago" Grid.Row="12" Grid.Column="0" HorizontalAlignment="Left" Margin="5,0" Style="{StaticResource MaterialDesignLabel}"/>
+        <Label Content="El pago se realizará en un plazo de 15 días" Grid.Row="13" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="5,0" Style="{StaticResource MaterialDesignLabel}"/>
+    
+    </Grid>
+</Window>

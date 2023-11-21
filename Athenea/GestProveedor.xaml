@@ -1,0 +1,342 @@
+﻿<Page x:Class="Athenea.GestProveedor"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Athenea"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      Title="Gestionar Proveedores" d:Height="555" d:Width="1280"
+      
+      TextElement.Foreground="{DynamicResource MaterialDesignBody}"       
+      TextElement.FontWeight="Bold"
+      TextElement.FontSize="16"
+      FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto" Cursor="Hand">
+
+    <Grid>
+        <Grid x:Name="gContenidoPro" Background="WhiteSmoke" IsEnabled="True" Visibility="Visible">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="62"/>
+                <RowDefinition Height="62*"/>
+                <RowDefinition Height="62*"/>
+                <RowDefinition Height="62"/>
+                <RowDefinition Height="62*"/>
+                <RowDefinition Height="62*"/>
+                <RowDefinition Height="62"/>
+                <RowDefinition Height="62*"/>
+                <RowDefinition Height="61*"/>
+                <RowDefinition Height="61*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="529*"/>
+                <ColumnDefinition Width="{Binding Path=Width, ElementName=gDatos}"/>
+                <ColumnDefinition Width="{Binding Path=Width, ElementName=gAñadirPro_Li}"/>
+            </Grid.ColumnDefinitions>
+
+            <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,5">
+
+                <Button x:Name="btnNuevo" Content="{materialDesign:PackIcon Kind=Clear, Size=24}" ToolTip="limpiar formulario" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" FontSize="14" Cursor="Hand" Width="90" Click="BtnNuevo_Click" Margin="11,5,0,0"/>
+                <Button x:Name="btnGuardarProo" Content="{materialDesign:PackIcon Kind=UserPlus, Size=24}" ToolTip="registar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" FontSize="14" Width="90" Margin="5,5,0,0" Click="BtnGuardarProv_Click" Cursor="Hand"/>
+                <Button x:Name="btnBorrarProo" Content="{materialDesign:PackIcon Kind=Delete, Size=24}" ToolTip="eliminar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Margin="5,5,0,0" Width="90" FontSize="14" Click="btnBorrarProv_Click" Cursor="Hand"/>
+                <ToggleButton x:Name="btnAñadirLi_Pro" Content="{materialDesign:PackIcon Kind=PenPlus, Size=24}" ToolTip="añadir productos" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Margin="5,5,0,0" Width="90" FontSize="14" Cursor="Hand" Click="btnAñadirLi_Pro_Click"/>
+
+            </WrapPanel>
+
+            <GroupBox x:Name="gbFormulario" Header="Datos de prooveedor" Style="{DynamicResource MaterialDesignGroupBox}" Grid.Column="0" Margin="10,2,10,10" Grid.Row="1" Grid.RowSpan="6">
+
+                <Grid x:Name="gContenedor5a" Cursor="Hand">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBox TabIndex="0" Grid.Row="0" Grid.Column="0" materialDesign:HintAssist.Hint="CIF" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtCIF" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=CIF, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="1" Grid.Column="0" Grid.Row="1" materialDesign:HintAssist.Hint="Nombre" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtNombre" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=Nombre, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="2" Grid.Column="0" Grid.Row="2" materialDesign:HintAssist.Hint="Siglas" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtSiglas" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Siglas, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="3" Grid.Column="0" Grid.Row="3" materialDesign:HintAssist.Hint="Correo" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="cbCorreo" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Correo, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="4" Grid.Column="1" Grid.Row="0" materialDesign:HintAssist.Hint="Telefono" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtTelefono" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=Telefono, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged, 
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <ComboBox TabIndex="5" Grid.Column="1" Grid.Row="1" materialDesign:HintAssist.Hint="Productos que vende" Style="{StaticResource MaterialDesignFloatingHintComboBox}" x:Name="cbProductos" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Productos.Nombre, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <ComboBox TabIndex="6" Grid.Column="1" Grid.Row="2" materialDesign:HintAssist.Hint="Libros que vende" Style="{StaticResource MaterialDesignFloatingHintComboBox}" x:Name="cbLibros" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Libros.Nombre, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox x:Name="gbFormularioDireccion" Header="Datos de la direccion del prooveedor" Style="{DynamicResource MaterialDesignGroupBox}" Grid.Row="7" Grid.RowSpan="3" Grid.Column="0" Margin="10,0,10,10">
+
+                <Grid x:Name="gContenedorDireccion" Cursor="Hand">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBox TabIndex="0" Grid.Row="0" Grid.Column="0" IsReadOnly="True" materialDesign:HintAssist.Hint="Calle" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtCalle" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=Calle, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="1" Grid.Column="0" Grid.Row="1" IsReadOnly="True" materialDesign:HintAssist.Hint="Codigo Postal" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtCP" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=CodigoPostal, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="2" Grid.Column="1" Grid.Row="0" IsReadOnly="True" materialDesign:HintAssist.Hint="Provincia" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtProvincia" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Provincia, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="3" Grid.Column="1" Grid.Row="1" IsReadOnly="True" materialDesign:HintAssist.Hint="Concello" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtConcello" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Concello, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+                </Grid>
+            </GroupBox>
+
+            <Grid x:Name="gDatos" Grid.Column="1" Grid.RowSpan="10" Width="751">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="62"/>
+                    <RowDefinition Height="62*"/>
+                    <RowDefinition Height="62*"/>
+                    <RowDefinition Height="50*"/>
+                    <RowDefinition Height="62*"/>
+                    <RowDefinition Height="62*"/>
+                    <RowDefinition Height="50*"/>
+                    <RowDefinition Height="62*"/>
+                    <RowDefinition Height="62*"/>
+                    <RowDefinition Height="62*"/>
+                </Grid.RowDefinitions>
+
+                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="8,0,0,5" VerticalAlignment="Bottom" Grid.Row="0">
+
+                    <TextBox TabIndex="0" HorizontalAlignment="Left" Width="201" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Prooveedor a buscar" x:Name="txtBusquedaPro" VerticalAlignment="Center" />
+                    <Button x:Name="btnBuscarPro" Width="85" Height="38" ToolTip="Buscar Proveedor" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="{materialDesign:PackIcon Kind=Search, Size=24}" FontSize="16" Padding="0" Margin="10,5,0,0" Click="btnBuscarProv_Click"/>
+
+                </WrapPanel>
+
+                <DataGrid x:Name="dgProveedores" IsReadOnly="true" SelectionMode="Single" HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" Grid.RowSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="1" SelectionChanged="dgProoveedores_SelectionChanged" Margin="5,5,5,5">
+                    <DataGrid.Columns>
+
+                        <DataGridTextColumn Header="CIF" Binding="{Binding Path=CIF}"/>
+                        <DataGridTextColumn Header="Nombre" Binding="{Binding Path=NombreCompleto}"/>
+                        <DataGridTextColumn Header="Correo" Binding="{Binding Path=Correo}"/>
+                        <DataGridTextColumn Header="Teléfono" Binding="{Binding Path=Telefono}"/>
+                        <DataGridTextColumn Header="Direccion" Binding="{Binding Path=Direccion}"/>
+                        <DataGridTemplateColumn Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding Imagen}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+
+                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="8,0" VerticalAlignment="Center" Grid.Row="3">
+
+                    <TextBox TabIndex="0" HorizontalAlignment="Left" Width="201" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Producto a buscar" x:Name="txtBusquedaProd" VerticalAlignment="Center" />
+                    <Button x:Name="btnBuscarProd" Width="85" Height="38" ToolTip="Buscar productos provedor" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="{materialDesign:PackIcon Kind=Search, Size=24}" FontSize="16" Padding="0" Margin="10,5,0,0" Click="btnBuscarProd_Click"/>
+
+                </WrapPanel>
+
+                <DataGrid x:Name="dgProductos" IsReadOnly="true" HorizontalScrollBarVisibility="Auto" Margin="5,5,5,5" AutoGenerateColumns="False" Grid.RowSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="4" SelectionChanged="dgProductos_SelectionChanged">
+                    <DataGrid.Columns>
+
+                        <DataGridTemplateColumn Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding Imagen}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTextColumn Header="Nombre" Binding="{Binding Path=Nombre}"/>
+                        <DataGridTextColumn Header="Categoria" Binding="{Binding Path=Categoria.Nombre}"/>
+                        <DataGridTextColumn Header="Stock" Binding="{Binding Path=Stock}"/>
+                        <DataGridTextColumn Header="Precio" Binding="{Binding Path=Precio}"/>
+                        <DataGridTextColumn Header="Marca" Binding="{Binding Path=Marca.Nombre}"/>
+                        <DataGridTextColumn Header="Color" Binding="{Binding Path=Color}"/>
+                        <DataGridTextColumn Header="Tamaño" Binding="{Binding Path=Tamaño}"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+
+                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="8,0" VerticalAlignment="Center" Grid.Row="6">
+
+                    <TextBox TabIndex="0" HorizontalAlignment="Left" Width="201" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Libro a buscar" x:Name="txtBusquedaLi" VerticalAlignment="Center" />
+                    <Button x:Name="btnBuscarLi" Width="85" Height="38" ToolTip="Buscar libro proveedor" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="{materialDesign:PackIcon Kind=Search, Size=24}" FontSize="16" Padding="0" Margin="10,5,0,0" Click="btnBuscarLi_Click"/>
+
+                </WrapPanel>
+
+                <DataGrid x:Name="dgLibros" IsReadOnly="true" SelectionMode="Single" HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" Grid.RowSpan="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="7" SelectionChanged="dgLibros_SelectionChanged" Margin="5,5,5,5">
+                    <DataGrid.Columns>
+
+                        <DataGridTemplateColumn Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding Imagen}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTextColumn Header="Título" Binding="{Binding Path=Nombre}"/>
+                        <DataGridTextColumn Header="ISBN" Binding="{Binding Path=ISBN}"/>
+                        <DataGridTextColumn Header="Autor" Binding="{Binding Path=Autor}"/>
+                        <DataGridTextColumn Header="Tipo" Binding="{Binding Path=Tipo.Nombre}"/>
+                        <DataGridTextColumn Header="Editorial" Binding="{Binding Path=Editorial.Nombre}"/>
+                        <DataGridTextColumn Header="Descripción" Binding="{Binding Path=Descripcion}"/>
+                        <DataGridTextColumn Header="Stock" Binding="{Binding Path=Stock}"/>
+                        <DataGridTextColumn Header="Precio" Binding="{Binding Path=Precio}"/>
+                        <DataGridTextColumn Header="Edicion" Binding="{Binding Path=Edicion}"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+
+            <Grid x:Name="gAñadirPro_Li" Grid.Column="2" Grid.RowSpan="10" Width="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="62"/>
+                    <RowDefinition Height="57*"/>
+                    <RowDefinition Height="49*"/>
+                    <RowDefinition Height="56*"/>
+                    <RowDefinition Height="56*"/>
+                    <RowDefinition Height="56*"/>
+                    <RowDefinition Height="56*"/>
+                    <RowDefinition Height="55*"/>
+                    <RowDefinition Height="55*"/>
+                    <RowDefinition Height="55*"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="373*"/>
+                    <ColumnDefinition Width="373*"/>
+                </Grid.ColumnDefinitions>
+
+                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,5" Height="37" Width="185">
+
+                    <Button x:Name="btnGuardarProd" Content="{materialDesign:PackIcon Kind=PenPlus, Size=24}" ToolTip="registar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Click="btnGuardarProd_Click" FontSize="14" Cursor="Hand" Width="90" Margin="0,5,0,0"/>
+                    <Button x:Name="btnBorrarProd" Content="{materialDesign:PackIcon Kind=Delete, Size=24}" ToolTip="eliminar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Click="btnBorrarProd_Click" FontSize="14" Cursor="Hand" Width="90" Margin="5,5,0,0"/>
+
+                </WrapPanel>
+
+                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="8,0,0,2" VerticalAlignment="Bottom" Grid.Column="1" Height="32" Width="190">
+
+                    <Button x:Name="btnGuardarLi" Content="{materialDesign:PackIcon Kind=BookPlus, Size=24}" ToolTip="registar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  FontSize="14" Width="90" Click="btnGuardarLi_Click" Cursor="Hand"/>
+                    <Button x:Name="btnBorrarLi" Content="{materialDesign:PackIcon Kind=Delete, Size=24}" ToolTip="eliminar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  Margin="5,0" Width="90" FontSize="14" Click="btnBorrarLi_Click" Cursor="Hand"/>
+
+                </WrapPanel>
+
+                <ComboBox TabIndex="6" Grid.Row="1" materialDesign:HintAssist.Hint="Productos del proveedor" x:Name="cbProductosAdd" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Height="38" Margin="0,0,10,0" SelectedValue="{Binding Path=ProductoId, Mode=TwoWay,
+                UpdateSourceTrigger=PropertyChanged,
+                NotifyOnValidationError=True}"/>
+
+                <ComboBox TabIndex="6" Grid.Column="1" Grid.Row="1" materialDesign:HintAssist.Hint="Libros del proveedor" x:Name="cbLibrosAdd" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Height="38" Margin="0,0,10,0" SelectedValue="{Binding Path=LibroId, Mode=TwoWay,
+                UpdateSourceTrigger=PropertyChanged,
+                NotifyOnValidationError=True}"/>
+
+                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="2" Grid.Column="0" Height="38" Width="301">
+
+                    <TextBox TabIndex="0" HorizontalAlignment="Left" Width="201" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Producto a buscar" x:Name="txtBusquedaProdAdd" VerticalAlignment="Center" />
+                    <Button x:Name="btnBuscarProdAdd" Width="85" Height="38" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="{materialDesign:PackIcon Kind=Search, Size=24}" FontSize="16" Padding="0" Margin="15,0,0,0" Click="btnBuscarProv_Click"/>
+
+                </WrapPanel>
+
+                <DataGrid x:Name="dgProductosAdd" IsReadOnly="true" SelectionMode="Single" Grid.ColumnSpan="2" HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" Grid.RowSpan="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="3" SelectionChanged="dgProductos_SelectionChanged" Margin="0,7,0,56">
+                    <DataGrid.Columns>
+
+                        <DataGridTemplateColumn Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding Imagen}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTextColumn Header="Nombre" Binding="{Binding Path=Nombre}"/>
+                        <DataGridTextColumn Header="Categoria" Binding="{Binding Path=Categoria.Nombre}"/>
+                        <DataGridTextColumn Header="Stock" Binding="{Binding Path=Stock}"/>
+                        <DataGridTextColumn Header="Precio" Binding="{Binding Path=Precio}"/>
+                        <DataGridTextColumn Header="Marca" Binding="{Binding Path=Marca.Nombre}"/>
+                        <DataGridTextColumn Header="Color" Binding="{Binding Path=Color}"/>
+                        <DataGridTextColumn Header="Tamaño" Binding="{Binding Path=Tamaño}"/>
+                        <DataGridTextColumn Header="Prooveedor" Binding="{Binding Path=Prooveedor.Nombre}"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+
+                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" Grid.Row="6" Margin="0,0,0,54" Grid.RowSpan="2" Width="301">
+
+                    <TextBox TabIndex="0" HorizontalAlignment="Left" Width="201" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Libro a buscar" x:Name="txtBusquedaLiAdd" VerticalAlignment="Center" />
+                    <Button x:Name="btnBuscarLiAdd" Width="85" Height="38" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="{materialDesign:PackIcon Kind=Search, Size=24}" FontSize="16" Padding="0" Margin="15,0,0,0" Click="btnBuscarProv_Click"/>
+
+                </WrapPanel>
+
+                <DataGrid x:Name="dgLibrosAdd" IsReadOnly="true" SelectionMode="Single" HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" Grid.RowSpan="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="7" SelectionChanged="dgLibros_SelectionChanged" Grid.ColumnSpan="2">
+                    <DataGrid.Columns>
+
+                        <DataGridTemplateColumn Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding Imagen}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTextColumn Header="Título" Binding="{Binding Path=Nombre}"/>
+                        <DataGridTextColumn Header="ISBN" Binding="{Binding Path=ISBN}"/>
+                        <DataGridTextColumn Header="Autor" Binding="{Binding Path=Autor}"/>
+                        <DataGridTextColumn Header="Tipo" Binding="{Binding Path=Tipo.Nombre}"/>
+                        <DataGridTextColumn Header="Editorial" Binding="{Binding Path=Editorial.Nombre}"/>
+                        <DataGridTextColumn Header="Descripción" Binding="{Binding Path=Descripcion}"/>
+                        <DataGridTextColumn Header="Stock" Binding="{Binding Path=Stock}"/>
+                        <DataGridTextColumn Header="Precio" Binding="{Binding Path=Precio}"/>
+                        <DataGridTextColumn Header="Edicion" Binding="{Binding Path=Edicion}"/>
+                        <DataGridTextColumn Header="Prooveedor" Binding="{Binding Path=Prooveedor.Nombre}"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+            
+            <materialDesign:Snackbar x:Name="sbNotification"
+                VerticalAlignment="Top" HorizontalContentAlignment="Center"
+                MessageQueue="{materialDesign:MessageQueue}"/>
+        </Grid>
+    </Grid>
+</Page>

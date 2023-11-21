@@ -1,0 +1,176 @@
+﻿<Page x:Class="Athenea.GestDesarrollador"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Athenea"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      Title="Gestionar Usuarios" d:Height="555" d:Width="1280"
+      
+      TextElement.Foreground="{DynamicResource MaterialDesignBody}"       
+      TextElement.FontWeight="Bold"
+      TextElement.FontSize="16"
+      FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto" Cursor="Hand">
+
+    <Grid>
+        <Grid x:Name="gContenidoUs" Background="WhiteSmoke" IsEnabled="True" Visibility="Visible">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="345*"/>
+                <RowDefinition Height="148*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="14*"/>
+            </Grid.ColumnDefinitions>
+
+            <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,5">
+
+                <Button x:Name="btnNuevo" Content="{materialDesign:PackIcon Kind=Clear, Size=24}" ToolTip="limpiar formulario" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  FontSize="14" Cursor="Hand" Width="90" Click="BtnNuevo_Click" Margin="6,5,0,0"/>
+                <Button x:Name="btnGuardarLi" Content="{materialDesign:PackIcon Kind=userPlus, Size=24}" ToolTip="registar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  FontSize="14" Width="90" Margin="5,5,0,0" Click="BtnGuardarUs_Click" Cursor="Hand"/>
+                <Button x:Name="btnBorrar" Content="{materialDesign:PackIcon Kind=Delete, Size=24}" ToolTip="eliminar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  Margin="5,5,0,0" Width="90" FontSize="14" Click="btnBorrar_Click" Cursor="Hand"/>
+                <Button x:Name="btnImagen" Content="{materialDesign:PackIcon Kind=ImageEdit, Size=24}" ToolTip="cargar imagen" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  Margin="5,10,5,5" Width="90" FontSize="14" Click="btnImage_Click" Cursor="Hand"/>
+                
+            </WrapPanel>
+
+            <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="3,10" VerticalAlignment="Bottom" Grid.Column="1">
+
+                <TextBox TabIndex="0" HorizontalAlignment="Left" Width="201" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Valor a buscar" x:Name="txtBusquedaUs" VerticalAlignment="Center" />
+                <Button x:Name="btnBuscar" ToolTip="Buscar Usuario" Width="85" Height="38" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="{materialDesign:PackIcon Kind=Search, Size=24}" FontSize="16" Padding="0" Margin="10,0,0,0" Click="btnBuscar_Click" Cursor="Hand"/>
+
+            </WrapPanel>
+
+            <GroupBox x:Name="gbFormulario" Header="Datos de usuario" Style="{DynamicResource MaterialDesignGroupBox}" Grid.Row="1" Grid.Column="0" Margin="5,2,10,5">
+
+                <Grid x:Name="gContenedor5a" Cursor="Hand">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBox TabIndex="0" Grid.Row="0" Grid.Column="0" materialDesign:HintAssist.Hint="DNI" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtDNI" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=DNI, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="1" Grid.Column="0" Grid.Row="1" materialDesign:HintAssist.Hint="Nombre" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtNombre" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=Nombre, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="2" Grid.Column="0" Grid.Row="2" materialDesign:HintAssist.Hint="Apellidos" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtApellidos" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Apellidos, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="3" Grid.Column="0" Grid.Row="3" materialDesign:HintAssist.Hint="Clave" x:Name="txtClave" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center" Margin="10,0" Height="38" Text="{Binding Path=Clave, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True}"/>
+
+                    <TextBox TabIndex="4" Grid.Column="0" Grid.Row="4" materialDesign:HintAssist.Hint="Correo" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="cbCorreo" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Correo, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <DatePicker x:Name="dpFechReg" Grid.Row="5" TabIndex="5" Grid.Column="0" VerticalAlignment="Center" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" materialDesign:HintAssist.Hint="Fecha Registro" Height="50" Margin="10,0,10,7" SelectedDate="{Binding Path=FechaRegistro, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}" />
+
+                    <TextBox TabIndex="6" Grid.Column="1" Grid.Row="0" materialDesign:HintAssist.Hint="Telefono" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtTelefono" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=Telefono, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged, 
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>                    
+
+                    <ComboBox TabIndex="7" Grid.Column="1" Grid.Row="1" materialDesign:HintAssist.Hint="Rol" Style="{StaticResource MaterialDesignFloatingHintComboBox}" x:Name="cbRol" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Rol.Nombre, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <Image x:Name="Imagen" Grid.Column="1" Grid.Row="2" Grid.RowSpan="4" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Imagen" Source="{Binding Imagen, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox x:Name="gbFormularioDireccion" Header="Datos de la direccion del usuario" Style="{DynamicResource MaterialDesignGroupBox}" Grid.Row="2" Grid.Column="0" Margin="5,0,10,5">
+
+                <Grid x:Name="gContenedorDireccion" Cursor="Hand">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBox TabIndex="0" Grid.Row="0" Grid.Column="0" IsReadOnly="True" materialDesign:HintAssist.Hint="Calle" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtCalle" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=Calle, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="1" Grid.Column="0" Grid.Row="1" IsReadOnly="True" materialDesign:HintAssist.Hint="Codigo Postal" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtCP" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=CodigoPostal, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="2" Grid.Column="1" Grid.Row="0" IsReadOnly="True" materialDesign:HintAssist.Hint="Provincia" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtProvincia" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Provincia, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="3" Grid.Column="1" Grid.Row="1" IsReadOnly="True" materialDesign:HintAssist.Hint="Concello" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="cbConcello" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Concello, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+                </Grid>
+            </GroupBox>
+
+            <WrapPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Left" Margin="214,15,0,0" Grid.ColumnSpan="2" Width="772" VerticalAlignment="Top" Height="57"/>
+
+            <DataGrid x:Name="dgUsuarios" IsReadOnly="true" Grid.Column="1" Margin="0,2,5,5" SelectionMode="Single" HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" Grid.RowSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="1" SelectionChanged="dgUsuarios_SelectionChanged">
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn Header="DNI" Binding="{Binding Path=DNI}"/>
+                    <DataGridTextColumn Header="Nombre" Binding="{Binding Path=Nombre}"/>
+                    <DataGridTextColumn Header="Apellidos" Binding="{Binding Path=Apellidos}"/>
+                    <DataGridTextColumn Header="Correo" Binding="{Binding Path=Correo}"/>
+                    <DataGridTextColumn Header="Clave" Binding="{Binding Path=Clave}"/>
+                    <DataGridTextColumn Header="Teléfono" Binding="{Binding Path=Telefono}"/>
+                    <DataGridTextColumn Header="Fecha de registro" Binding="{Binding Path=fechaReg}"/>
+                    <DataGridTextColumn Header="Rol" Binding="{Binding Path=Rol.Nombre}"/>
+                    <DataGridTextColumn Header="Direccion" Binding="{Binding Path=Direccion}"/>
+                    <DataGridTemplateColumn Width="100">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Imagen}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <materialDesign:Snackbar x:Name="sbNotification"
+                VerticalAlignment="Top" HorizontalContentAlignment="Center"
+                MessageQueue="{materialDesign:MessageQueue}"/>
+        </Grid>
+    </Grid>
+</Page>

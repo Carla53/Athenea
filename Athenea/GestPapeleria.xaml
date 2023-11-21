@@ -1,0 +1,226 @@
+﻿<Page x:Class="Athenea.GestPapeleria"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Athenea"
+      mc:Ignorable="d" 
+      d:Height="500" d:Width="1000"
+      Title="Gestionar Papelería" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      
+      TextElement.Foreground="{DynamicResource MaterialDesignBody}"       
+      TextElement.FontWeight="Bold"
+      TextElement.FontSize="16"
+      FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto">
+
+    <Grid>
+        <Grid x:Name="gContenidoPap" VerticalAlignment="Stretch" Background="WhiteSmoke" IsEnabled="True">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="449*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="159*"/>
+                <ColumnDefinition Width="241*"/>
+            </Grid.ColumnDefinitions>
+
+            <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom">
+
+                <Button x:Name="btnNuevo" Content="{materialDesign:PackIcon Kind=Clear, Size=24}" ToolTip="limpiar formulario" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  FontSize="14" Cursor="Hand" Width="72" Click="BtnNuevo_Click" Margin="5,5,0,0"/>
+                <Button x:Name="btnGuardarLi" Content="{materialDesign:PackIcon Kind=PenPlus, Size=24}" ToolTip="registar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  FontSize="14" Width="72" Margin="5,5,0,0" Click="BtnGuardarProd_Click" Cursor="Hand"/>
+                <Button x:Name="btnBorrar" Content="{materialDesign:PackIcon Kind=Delete, Size=24}" ToolTip="eliminar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  Margin="5,5,0,0" Width="72" FontSize="14" Click="btnBorrar_Click" Cursor="Hand"/>
+                <Button x:Name="btnImagen" Content="{materialDesign:PackIcon Kind=ImageEdit, Size=24}" ToolTip="cargar imagen" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  Margin="5,10,0,5" Width="72" FontSize="14" Click="btnImage_Click" Cursor="Hand"/>
+                <ToggleButton x:Name="btnAñadirCategorias_Marcas" Content="{materialDesign:PackIcon Kind=ListBox, Size=24}" ToolTip="añadir nuevos elementos" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"  Margin="5,10,5,5" Width="72" FontSize="14" Cursor="Hand" Click="btnAñadirCategorias_Marcas_Click"/>
+
+            </WrapPanel>
+
+            <GroupBox x:Name="gbFormularioPapeleria" Header="Datos Producto" Style="{DynamicResource MaterialDesignGroupBox}" Grid.Column="0" Margin="5,2,5,5" Grid.Row="1">
+
+                <Grid x:Name="gContenedor">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBox TabIndex="0" Grid.Column="0" Grid.Row="0" materialDesign:HintAssist.Hint="Nombre" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtNombre" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=Nombre, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <ComboBox TabIndex="1" Grid.Column="0" Grid.Row="1" materialDesign:HintAssist.Hint="Categoría" Style="{StaticResource MaterialDesignFloatingHintComboBox}" x:Name="cbCategoria" VerticalAlignment="Center" Margin="10,0,10,0" SelectedValue="{Binding Path=CategoriaId, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True}"  Height="38"/>
+
+                    <ComboBox TabIndex="2" Grid.Column="0" Grid.Row="2" materialDesign:HintAssist.Hint="Marca" x:Name="cbMarca" VerticalAlignment="Center" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Height="38" Margin="10,0,10,0" SelectedValue="{Binding Path=MarcaId, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True}"/>
+                    
+                    <TextBox TabIndex="5" Grid.Column="0" Grid.Row="3" materialDesign:HintAssist.Hint="Stock" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtStock" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=Stock, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged, 
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="4" Grid.Row="4" Grid.Column="0" materialDesign:HintAssist.Hint="Color" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtColor" VerticalAlignment="Center" Margin="10,0" Text="{Binding Path=Color, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="5" Grid.Column="1" Grid.Row="0" materialDesign:HintAssist.Hint="Tamaño" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtTamaño" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Tamaño, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <TextBox TabIndex="6" Grid.Column="1" Grid.Row="1" materialDesign:HintAssist.Hint="Precio" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="txtPrecio" VerticalAlignment="Center" Margin="10,0,10,0" Text="{Binding Path=Precio, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        StringFormat=N2,
+                        ValidatesOnDataErrors=True}"/>
+
+                    <ComboBox TabIndex="7" Grid.Column="1" Grid.Row="2" materialDesign:HintAssist.Hint="Prooveedor" x:Name="cbProveedor" VerticalAlignment="Center" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Height="38" Margin="10,0,10,0" SelectedValue="{Binding Path=ProveedorId, Mode=TwoWay,
+                        UpdateSourceTrigger=PropertyChanged,
+                        NotifyOnValidationError=True}"/>
+
+                    <Image x:Name="Imagen" Grid.Column="1" Grid.Row="3" Grid.RowSpan="2" Margin="5" materialDesign:HintAssist.Hint="Imagen" Source="{Binding Image, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+                </Grid>
+            </GroupBox>
+
+            <Grid x:Name="gDatos" Grid.Column="1" Grid.RowSpan="2" Width="758">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="55"/>
+                    <RowDefinition Height="100*"/>
+                </Grid.RowDefinitions>
+
+                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" Grid.Row="0" Margin="5,0,0,0" VerticalAlignment="Bottom">
+
+                    <TextBox TabIndex="0" HorizontalAlignment="Left" Width="201" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Valor a buscar" x:Name="txtBusquedaPap" VerticalAlignment="Center" />
+                    <Button x:Name="btnBuscar" Width="85" Height="38" ToolTip="BUscar Producto" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="{materialDesign:PackIcon Kind=Search, Size=24}" FontSize="16" Padding="0" Margin="10,5,0,0" Click="btnBuscar_Click" Cursor="Hand"/>
+
+                </WrapPanel>
+
+                <DataGrid x:Name="dgPapeleria" IsReadOnly="true" Margin="5,10,5,5" SelectionMode="Single" HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="1" SelectionChanged="DgPapeleria_SelectionChanged">
+                    <DataGrid.Columns>
+
+                        <DataGridTemplateColumn Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding Imagen}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTextColumn Header="Nombre" Binding="{Binding Path=Nombre}"/>
+                        <DataGridTextColumn Header="Categoria" Binding="{Binding Path=Categoria.Nombre}"/>
+                        <DataGridTextColumn Header="Stock" Binding="{Binding Path=Stock}"/>
+                        <DataGridTextColumn Header="Precio" Binding="{Binding Path=Precio, StringFormat=N2}"/>
+                        <DataGridTextColumn Header="Marca" Binding="{Binding Path=Marca.Nombre}"/>
+                        <DataGridTextColumn Header="Color" Binding="{Binding Path=Color}"/>
+                        <DataGridTextColumn Header="Tamaño" Binding="{Binding Path=Tamaño}"/>
+                        <DataGridTextColumn Header="Prooveedor" Binding="{Binding Path=Proveedor.Nombre}"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+
+            <materialDesign:Snackbar x:Name="sbNotification"
+                VerticalAlignment="Top" HorizontalContentAlignment="Center"
+                MessageQueue="{materialDesign:MessageQueue}"/>
+
+
+            <Grid x:Name="gAñadirMarcas_Categorias" Grid.Column="1" Grid.RowSpan="2" Margin="2,0,2,0" Width="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="55"/>
+                    <RowDefinition Height="46*"/>
+                    <RowDefinition Height="67*"/>
+                    <RowDefinition Height="56*"/>
+                    <RowDefinition Height="56*"/>
+                    <RowDefinition Height="56*"/>
+                    <RowDefinition Height="56*"/>
+                    <RowDefinition Height="55*"/>
+                    <RowDefinition Height="55*"/>
+                    <RowDefinition Height="55*"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="373*"/>
+                    <ColumnDefinition Width="373*"/>
+                </Grid.ColumnDefinitions>
+
+                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="37">
+
+                    <Button x:Name="btnNuevaCatogoria" Content="{materialDesign:PackIcon Kind=Clear, Size=24}" ToolTip="nueva categoria" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" FontSize="14" Cursor="Hand" Width="90" Margin="0,5,0,0" Click="btnNuevaCatogoria_Click"/>
+                    <Button x:Name="btnGuardarCatogoria" Content="{materialDesign:PackIcon Kind=NotePlus, Size=24}" ToolTip="registar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" FontSize="14" Cursor="Hand" Width="90" Margin="5,5,0,0" Click="btnGuardarCategoria_Click"/>
+                    <Button x:Name="btnBorrarCategoria" Content="{materialDesign:PackIcon Kind=Delete, Size=24}" ToolTip="eliminar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" FontSize="14" Cursor="Hand" Width="90" Margin="5,5,0,0" Click="btnBorrarCategoria_Click"/>
+
+                </WrapPanel>
+
+                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,5" Height="37" Grid.Row="5">
+
+                    <Button x:Name="btnNuevaMarca" Content="{materialDesign:PackIcon Kind=Clear, Size=24}" ToolTip="nueva marca" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" FontSize="14" Cursor="Hand" Width="90" Margin="0,5,0,0" Click="btnNuevaMarca_Click"/>
+                    <Button x:Name="btnGuardarMarca" Content="{materialDesign:PackIcon Kind=LibraryAdd, Size=24}" ToolTip="registar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" FontSize="14" Cursor="Hand" Width="90" Margin="5,5,0,0" Click="btnGuardarMarca_Click"/>
+                    <Button x:Name="btnBorrarMarca" Content="{materialDesign:PackIcon Kind=Delete, Size=24}" ToolTip="eliminar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" FontSize="14" Cursor="Hand" Width="90" Margin="5,5,0,0" Click="btnBorrarMarca_Click"/>
+                    <Button x:Name="btnImagenMarca" Content="{materialDesign:PackIcon Kind=Image, Size=24}" ToolTip="cargar imagen" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" FontSize="14" Cursor="Hand" Width="90" Margin="5,5,0,0" Click="btnImagenMarca_Click"/>
+
+                </WrapPanel>
+
+                <WrapPanel x:Name="wpCategoria" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="1" Grid.Column="0" Height="42" Width="201">
+
+                    <TextBox TabIndex="0" HorizontalAlignment="Left" Width="201" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Categoria a añadir" x:Name="txtCategoriaAdd" VerticalAlignment="Center"  Text="{Binding Path=Nombre, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+
+                </WrapPanel>
+
+                <DataGrid x:Name="dgCategoriaAdd" IsReadOnly="true" SelectionMode="Single" Grid.ColumnSpan="2" HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" Grid.RowSpan="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="2" Margin="0,7,5,0" SelectionChanged="dgCategoriaAdd_SelectionChanged">
+                    <DataGrid.Columns>
+
+                        <DataGridTextColumn Header="Id" Binding="{Binding Path=CategoriaId}"/>
+                        <DataGridTextColumn Header="Categoria" Binding="{Binding Path=Nombre}"/>
+                        <DataGridTextColumn Header="Marca" Binding="{Binding Path=Marca.Nombre}"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+
+                <StackPanel x:Name="spMarca" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,7,0,0" Height="37" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2">
+
+                    <TextBox x:Name="txtNombreMarcaAdd" TabIndex="0" Width="180" Style="{StaticResource MaterialDesignTextBoxBase}" materialDesign:HintAssist.Hint="Nombre de la marca" Text="{Binding Path=Nombre, Mode=TwoWay,
+                        NotifyOnValidationError=True,
+                        UpdateSourceTrigger=PropertyChanged,
+                        ValidatesOnDataErrors=True}"/>
+                
+                </StackPanel>
+
+                <Image HorizontalAlignment="Right" Width="150" Margin="0,0,30,0" x:Name="ImagenMarca" Grid.Row="6" VerticalAlignment="Center" Source="{Binding Imagen, Mode=TwoWay}"/>
+
+                <DataGrid x:Name="dgMarcaAdd" IsReadOnly="true" Margin="0,5,5,5" SelectionMode="Single" HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" Grid.RowSpan="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="7" Grid.ColumnSpan="2" SelectionChanged="dgMarcaAdd_SelectionChanged">
+                    <DataGrid.Columns>
+
+                        <DataGridTextColumn Header="Id" Binding="{Binding Path=MarcaId}"/>
+                        <DataGridTextColumn Header="Nombre" Binding="{Binding Path=Nombre}"/>
+                        <DataGridTemplateColumn Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding Imagen}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,1315 @@
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.AssemblyReference.cache
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestApp.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestLibro.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestVenta.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.cache
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.lref
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Perfil.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.exe
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.deps.json
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.json
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.dev.json
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\LocalDb.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestApp.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestLibro.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestVenta.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Perfil.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.g.resources
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfoInputs.cache
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfo.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CoreCompileInputs.cache
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CopyComplete
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.genruntimeconfig.cache
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.AssemblyReference.cache
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestApp.g.cs
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.g.cs
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestLibro.g.cs
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.g.cs
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestVenta.g.cs
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Perfil.g.cs
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\App.g.cs
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.cache
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.lref
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.pdb
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.exe
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.deps.json
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.json
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.dev.json
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.pdb
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\ControlzEx.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\LocalDb.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\App.baml
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestApp.baml
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.baml
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestLibro.baml
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.baml
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestVenta.baml
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Perfil.baml
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.g.resources
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfoInputs.cache
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfo.cs
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CoreCompileInputs.cache
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CopyComplete
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.genruntimeconfig.cache
+D:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestProoveedor.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\vPdf.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\vPdf.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestCompra.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestCompra.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Ticket.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Ticket.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.exe
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.deps.json
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.json
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.dev.json
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Athenea.pdb
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Azure.Core.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\ControlzEx.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\itextsharp.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\LocalDb.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.AssemblyReference.cache
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestApp.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestCompra.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestLibro.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestVenta.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Perfil.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Ticket.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\vPdf.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\App.g.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.cache
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.lref
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\App.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestApp.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestCompra.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestLibro.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\GestVenta.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Perfil.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Ticket.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\vPdf.baml
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.g.resources
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.GeneratedMSBuildEditorConfig.editorconfig
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfoInputs.cache
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfo.cs
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CoreCompileInputs.cache
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CopyComplete
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.dll
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.pdb
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea.genruntimeconfig.cache
+G:\DAM2\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea_Content.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Athenea_Content.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Factura.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Athenea\obj\Debug\netcoreapp3.1\Factura.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.exe
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.deps.json
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.json
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.dev.json
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\LocalDb.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.AssemblyReference.cache
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_Content.g.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.cache
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.lref
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.baml
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.g.resources
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfoInputs.cache
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfo.cs
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CoreCompileInputs.cache
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CopyComplete
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.genruntimeconfig.cache
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.AssemblyReference.cache
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_Content.g.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.cache
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.lref
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.pdb
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.exe
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.deps.json
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.json
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.dev.json
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.pdb
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Core.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\ControlzEx.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\itextsharp.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\LocalDb.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.baml
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.g.resources
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfoInputs.cache
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfo.cs
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CoreCompileInputs.cache
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CopyComplete
+F:\DAM2\TFG\Proyecto\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.genruntimeconfig.cache
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\DAM208\Documents\TFG\Proyecto\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.exe
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.deps.json
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.json
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.dev.json
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\LocalDb.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.AssemblyReference.cache
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaCompra.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaVentas.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_Content.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.cache
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.lref
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaCompra.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaVentas.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.g.resources
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfoInputs.cache
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfo.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CoreCompileInputs.cache
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CopyComplete
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.genruntimeconfig.cache
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.exe
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.deps.json
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.json
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.dev.json
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\LocalDb.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.AssemblyReference.cache
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaCompra.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaVentas.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_Content.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.cache
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.lref
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaCompra.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaVentas.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.baml
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.g.resources
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfoInputs.cache
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfo.cs
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CoreCompileInputs.cache
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CopyComplete
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\Carla\Documents\DAM2\TFG\Proyecto\Nueva carpeta\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.genruntimeconfig.cache
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.AssemblyReference.cache
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaCompra.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaVentas.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_Content.g.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.cache
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.lref
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.pdb
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.exe
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.deps.json
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.json
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.dev.json
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.pdb
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\ControlzEx.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\LocalDb.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaCompra.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaVentas.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.baml
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.g.resources
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfoInputs.cache
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfo.cs
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CoreCompileInputs.cache
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CopyComplete
+D:\Athenea sin cliente id\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.genruntimeconfig.cache
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.exe
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.deps.json
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.json
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.dev.json
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\LocalDb.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.AssemblyReference.cache
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaCompra.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaVentas.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_Content.g.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.cache
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.lref
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaCompra.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaVentas.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.baml
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.g.resources
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfoInputs.cache
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfo.cs
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CoreCompileInputs.cache
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CopyComplete
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\Carla\Documents\Carla\Nueva carpeta (3)\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.genruntimeconfig.cache
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.exe
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.deps.json
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.json
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.runtimeconfig.dev.json
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\LocalDb.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.AssemblyReference.cache
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaCompra.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaVentas.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_Content.g.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.cache
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea_MarkupCompile.lref
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Factura.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestApp.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestCompra.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestDesarrollador.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestLibro.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestPapeleria.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestProveedor.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\GestVenta.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaCompra.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\ListaVentas.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Perfil.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Ticket.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\vPdf.baml
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.g.resources
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfoInputs.cache
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.AssemblyInfo.cs
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CoreCompileInputs.cache
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.csproj.CopyComplete
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.dll
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.pdb
+C:\Users\Carla\Documents\DAM2\TFG\Athenea\Proyecto\Athenea\obj\Debug\netcoreapp3.1\Athenea.genruntimeconfig.cache

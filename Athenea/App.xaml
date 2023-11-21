@@ -1,0 +1,45 @@
+﻿<Application x:Class="Athenea.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Athenea"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Purple.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+            <!-- PRIMARY -->
+
+            <SolidColorBrush x:Key="PrimaryHueLightBrush" Color="#ffad42"/>
+            <SolidColorBrush x:Key="PrimaryHueLightForegroundBrush" Color="#000000" Opacity="59"/>
+
+            <SolidColorBrush x:Key="PrimaryHueMidBrush" Color="#f57c00"/>
+            <SolidColorBrush x:Key="PrimaryHueMidForegroundBrush" Color="#000000" Opacity="66"/>
+
+            <SolidColorBrush x:Key="PrimaryHueDarkBrush" Color="#e64a19"/>
+            <SolidColorBrush x:Key="PrimaryHueDarkForegroundBrush" Color="#000000" Opacity="80"/>
+
+            <!--<Style x:Key="alCenter" TargetType="TextBlock">
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+            </Style>-->
+
+            <!-- SECONDARY -->
+
+            <!--<SolidColorBrush x:Key="SecondaryAccentBrush" Color="#e64a19"/>
+            <SolidColorBrush x:Key="SecondaryAccentForegroundBrush" Color="#000000" Opacity="80"/>-->
+
+            <!--<SolidColorBrush x:Key="SecondaryAccentLightBrush" Color="#ff7d47"/>
+            <SolidColorBrush x:Key="SecondaryAccentLightForegroundBrush" Color="#000000" Opacity="65"/>
+
+            <SolidColorBrush x:Key="SecondaryAccentMidBrush" Color="#e64a19"/>
+            <SolidColorBrush x:Key="SecondaryAccentMidForegroundBrush" Color="#000000" Opacity="80"/>
+
+            <SolidColorBrush x:Key="SecondaryAccentDarkBrush" Color="#ac0800"/>
+            <SolidColorBrush x:Key="SecondaryAccentDarkForegroundBrush" Color="#ffffff" Opacity="74"/>-->
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

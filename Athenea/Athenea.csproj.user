@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Factura.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GestApp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GestDesarrollador.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GestLibro.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GestPapeleria.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GestVenta.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Perfil.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GestProveedor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Ticket.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="vPdf.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Factura.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GestApp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GestDesarrollador.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GestLibro.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GestPapeleria.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GestVenta.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Perfil.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GestProveedor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Ticket.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="vPdf.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

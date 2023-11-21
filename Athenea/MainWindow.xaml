@@ -1,0 +1,57 @@
+﻿<Window x:Class="Athenea.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Athenea"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Iniciar Sesion" Height="500" MinHeight="500" MaxHeight="500" Width="450" MinWidth="450" MaxWidth="450" WindowStartupLocation="CenterScreen"
+        
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"       
+        TextElement.FontWeight="Bold"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"  
+        ShowInTaskbar="False" Cursor="Hand">
+    <Grid Name="gContenedor"  Background="WhiteSmoke" IsEnabled="True">
+        <GroupBox x:Name="gbInicio" Header="Inicio de sesión" Style="{DynamicResource MaterialDesignGroupBox}" materialDesign:ColorZoneAssist.Foreground="White" Grid.Row="0" Margin="16,16,16,16" Grid.RowSpan="3" Grid.ColumnSpan="2">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="107*"/>
+                    <RowDefinition Height="117*"/>
+                    <RowDefinition Height="178*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Image Grid.Column="1" Grid.RowSpan="2" VerticalAlignment="Top" Margin="0,10,0,0" Source="Imagenes\logo.png" Width="150" Height="130" Stretch="Uniform"/>
+
+                <ComboBox Grid.Column="1" Grid.Row="1" materialDesign:HintAssist.Hint="Usuario" Style="{StaticResource MaterialDesignFloatingHintComboBox}" x:Name="cbUsuario" Margin="10,20,10,0" FontSize="14" TabIndex="1" Height="38"/>
+
+                <Grid x:Name="gContenedorContra" Grid.Column="1" Grid.Row="2" Margin="0,6,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="37"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBox Width="336" HorizontalAlignment="Left" materialDesign:HintAssist.Hint="Contraseña" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Name="txtPass" VerticalAlignment="Top" Margin="10,10,0,0" FontSize="14" TabIndex="0" Visibility="hidden"/>
+                    <PasswordBox Width="336" HorizontalAlignment="Left" materialDesign:HintAssist.Hint="Contraseña" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" Name="pwdPass" VerticalAlignment="Top" Margin="10,10,0,0" Password="" FontSize="14" TabIndex="0" KeyDown="comprobarEnter"/>
+                    <TextBox materialDesign:HintAssist.Hint="Contraseña" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="336" Name="txtContra" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,10,0,0" Visibility="Hidden" FontSize="14"/>
+                    <Image x:Name="mgEye" VerticalAlignment="Top" Source="Imagenes/eye.png" Height="38" Grid.Column="1" Margin="0,10,0,0" MouseEnter="MgEye_MouseEnter" MouseLeave="MgEye_MouseLeave"/>
+
+                </Grid>
+
+                <Button x:Name="btnEntrar" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" Content="Entrar" Click="btnEntrar_OnClick" FontSize="14" HorizontalAlignment="Right" VerticalAlignment="Top" Grid.Row="2" Grid.ColumnSpan="2" Height="35" Margin="0,97,5,0" Width="80" Cursor="Hand"/>
+                
+            </Grid>
+        </GroupBox>
+        
+        <materialDesign:Snackbar x:Name="sbNotification"
+            VerticalAlignment="Top"
+            MessageQueue="{materialDesign:MessageQueue}"/>
+    </Grid>
+</Window>

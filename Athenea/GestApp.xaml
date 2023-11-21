@@ -1,0 +1,52 @@
+﻿<Window x:Class="Athenea.GestApp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Athenea"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Athenea" d:Height="600" d:Width="1400" MinHeight="580" MinWidth="1261" WindowStartupLocation="CenterScreen"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+       
+        TextElement.FontWeight="Bold"
+        TextElement.FontSize="16"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"  
+        ShowInTaskbar="False">
+    <Grid x:Name="dgContenedor" Background="WhiteSmoke">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="{Binding Path=Width, ElementName=spMenu}"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="spMenu" Grid.Column="0" Width="100">
+            <!--<WrapPanel x:Name="wpMenu" Margin="0,60,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical">-->
+
+            <Button x:Name="btnVenta" ToolTip="Vender" Width="80" Height="55" Margin="0,15,0,10" Style="{DynamicResource MaterialDesignRaisedButton}" Content="{materialDesign:PackIcon Kind=Shopping, Size=40}" Click="BtnAbrirVenta_Click" Cursor="Hand"/>
+
+            <Button x:Name="btnCompra" ToolTip="Comprar" Width="80" Height="55" Margin="0,0,0,10" Style="{DynamicResource MaterialDesignRaisedButton}" Content="{materialDesign:PackIcon Kind=Shop, Size=40}" Click="BtnAbrirCompra_Click" Cursor="Hand"/>
+
+            <Button x:Name="btnPapeleria" ToolTip="Gestionar Papelería" Width="80" Height="55" Margin="0,0,0,10" Style="{DynamicResource MaterialDesignRaisedButton}" Content="{materialDesign:PackIcon Kind=PencilRuler, Size=40}"  FontSize="16" Click="BtnAbrirPapeleria_Click"/>
+
+            <Button x:Name="btnModificarLibros" ToolTip="Gestionar Libros" Width="80" Height="55" Margin="0,0,0,10" Style="{DynamicResource MaterialDesignRaisedButton}" Content="{materialDesign:PackIcon Kind=BookEdit, Size=40}" FontSize="16" Click="BtnAbrirLibros_Click" Cursor="Hand"/>
+
+            <Button x:Name="btnProoveedor" ToolTip="Gestionar Proveedores" Width="80" Height="55" Margin="0,0,0,10" Style="{DynamicResource MaterialDesignRaisedButton}" Content="{materialDesign:PackIcon Kind=AccountTie, Size=40}" FontSize="16" Click="btnAbrirProoveedor_Click" Cursor="Hand"/>
+
+            <Button x:Name="btnPefil" ToolTip="Pefil" Width="80" Height="55" Margin="0,0,0,10" Style="{DynamicResource MaterialDesignRaisedButton}" Content="{materialDesign:PackIcon Kind=Account, Size=40}" FontSize="16" Click="BtnAbrirPerfil_Click" Cursor="Hand"/>
+
+            <Button x:Name="btnDesarrollador" ToolTip="Ajustes de desarrollador" Width="80" Height="55" Margin="0,0,0,10" Style="{DynamicResource MaterialDesignRaisedButton}" Content="{materialDesign:PackIcon Kind=Tools, Size=40}" FontSize="16" Click="BtnAbrirOpcionDes_Click" Cursor="Hand"/>
+
+            <!--</WrapPanel>-->
+        </StackPanel>
+        
+        <Button x:Name="btnAyuda" ToolTip="Ayuda" Grid.Row="1" Width="80" Height="55" Style="{DynamicResource MaterialDesignRaisedButton}" Content="{materialDesign:PackIcon Kind=QuestionMark, Size=40}" FontSize="16" Click="btnAbrirAyuda_Click" Cursor="Hand"/>
+
+        <Frame x:Name="frame" Grid.Column="1" Grid.RowSpan="2" NavigationUIVisibility="Hidden" />
+
+    </Grid>
+</Window>
